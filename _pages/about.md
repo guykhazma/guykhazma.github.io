@@ -15,4 +15,4 @@ In addition, I am currently studying toward an MBA degree at Tel Aviv University
 
 Previously, I received my B.Sc. in Electrical Engineering and Computer Science from Tel Aviv University.
 
-My research interests are in distributed systems, large-scale data processing and infrastructure for data analytics.
+My research interests are in cloud computing, distributed systems, large-scale data processing and infrastructure for data analytics.
