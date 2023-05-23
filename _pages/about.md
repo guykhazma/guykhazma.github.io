@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Univeristy of Toronto, where I am advised by Professor [Eyal de Lara](http://www.cs.toronto.edu/~delara/). My research is in distributed systems. Previously I was a Research Staff Member at [IBM Research](https://www.research.ibm.com/labs/haifa/) where I worked on big data analytics as part of the [Cloud and Data Technologies Group](https://www.research.ibm.com/haifa/dept/stt/ssp.shtml).
+I am a PhD student at the University of Toronto, where I am advised by Professor [Eyal de Lara](http://www.cs.toronto.edu/~delara/). My research is in distributed systems. Previously I was a Research Staff Member at [IBM Research](https://www.research.ibm.com/labs/haifa/) where I worked on big data analytics as part of the [Cloud and Data Technologies Group](https://www.research.ibm.com/haifa/dept/stt/ssp.shtml).
 I am also a co-creator of the open source project [Xskipper](https://xskipper.io/master/) - an Extensible Data Skipping Framework for Apache Spark.   
 
 Before that, I received my B.Sc. in Electrical Engineering and Computer Science from Tel Aviv University and an MBA degree from Tel Aviv University.
