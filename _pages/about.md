@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of Toronto, where I am advised by Professor [Eyal de Lara](http://www.cs.toronto.edu/~delara/) and Professor [Niv Dayan](https://www.nivdayan.net/). I am currently working on Key Value Store optimization and Distributed Systems. 
+I am a PhD student at the University of Toronto, where I am advised by Professor [Eyal de Lara](http://www.cs.toronto.edu/~delara/) and Professor [Niv Dayan](https://www.nivdayan.net/). I am currently working on Key Value Stores and Distributed Systems. 
 
 Previously, I was a Research Staff Member at [IBM Research](https://www.research.ibm.com/labs/haifa/) where I worked on big data analytics as part of the [Cloud and Data Technologies Group](https://www.research.ibm.com/haifa/dept/stt/ssp.shtml).
 I am also a co-creator of the open source project [Xskipper](https://xskipper.io/master/) - an Extensible Data Skipping Framework for Apache Spark.   
