@@ -6,20 +6,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Projects"
-  #   url: /projects/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /posts/
-    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Experience & Awards"
+    url: /experience/

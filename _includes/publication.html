@@ -1,0 +1,6 @@
+<li class="pub">
+  <a class="pub__title" href="{{ pub.link }}">{{ pub.title }}</a><br>
+  <span class="pub__authors">{{ pub.authors | replace: site.author.name, '<strong>Guy Khazma</strong>' }}</span><br>
+  <span class="pub__venue"><strong>{{ pub.venue_tag }}</strong> · <em>{{ pub.venue }}</em></span>
+  {% if pub.pdf or pub.code %}<span class="pub__links">{% if pub.pdf %}<a href="{{ pub.pdf }}">PDF</a>{% endif %}{% if pub.pdf and pub.code %} · {% endif %}{% if pub.code %}<a href="{{ pub.code }}">Code</a>{% endif %}</span>{% endif %}
+</li>
