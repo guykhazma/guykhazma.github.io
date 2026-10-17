@@ -39,3 +39,48 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Publications list */
+.pubs {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.pub {
+  margin-bottom: 1.25em;
+  line-height: 1.5;
+
+  &__title {
+    font-weight: bold;
+  }
+
+  &__authors,
+  &__venue,
+  &__links {
+    font-size: $type-size-6;
+  }
+
+  &__links {
+    margin-left: 0.5em;
+    white-space: nowrap;
+  }
+}
+
+.archive .pub__title {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* Tighter menu on phones so all links fit without the overflow button */
+@media (max-width: 30em) {
+  .greedy-nav a {
+    margin: 0 0.5rem;
+  }
+
+  .masthead__menu-item--lg {
+    padding-right: 0;
+  }
+}
